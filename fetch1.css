@@ -1,0 +1,33 @@
+*{
+    padding: 0px;
+    margin: 0px;
+    box-sizing: border-box;
+}
+.container-fluid{
+    background-color: blueviolet;
+}
+.card-group{
+    margin: 200px;
+}
+h4{
+    background-color: aquamarine;
+    text-align: center;
+    width: 305px;
+    height: 30px;
+}
+.card-groupcard-group mt-3 py-3{
+    background-color: aqua;
+}
+#trt{
+    background-color: aquamarine;
+}
+.card-body{
+    background-color: aquamarine;
+    }
+#flag{
+    width: 400px;
+    height: 180px;
+}
+#latlng{
+    font-weight: bold;
+}
